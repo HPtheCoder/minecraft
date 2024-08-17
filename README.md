@@ -1,6 +1,6 @@
 All code in this repository is based on the course "unga programmerare" (young programmers) by Tobias Hallberg. You have to use a server in Minecraft Java Edition 1.12 to use the code. 
 
-portal2.py
+[portal2.py](https://github.com/HPtheCoder/minecraft/blob/main/portal2.py)
 
 This code creates a portal from where you are standing to coordinates provided in the script. 
 
