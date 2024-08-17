@@ -4,6 +4,6 @@ All code in this repository is based on the course "unga programmerare" (young p
 
 This code creates a portal from where you are standing to coordinates provided in the script. 
 
-kurragomma.py
+[kurragomma.py](https://github.com/HPtheCoder/minecraft/blob/main/kurragomma.py)
 
 This is a simple game of hide and seek in Minecraft.
