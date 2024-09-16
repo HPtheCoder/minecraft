@@ -6,5 +6,5 @@ This code creates a portal from where you are standing to coordinates provided i
 [kurragomma.py](https://github.com/HPtheCoder/minecraft/blob/main/kurragomma.py)
 This is a simple game of hide and seek in Minecraft.
 
- (hus2.py) (https://github.com/HPtheCoder/minecraft/blob/main/hus2.py)
+ [hus2.py](https://github.com/HPtheCoder/minecraft/blob/main/hus2.py)
   creates a very cool house were you're standing
